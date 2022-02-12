@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1511acdd-229f-410c-b09d-4bd648323e2d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/WebCRUDE",
+    "appService.deploySubpath": "bin\\Debug\\net6.0\\publish"
+}
